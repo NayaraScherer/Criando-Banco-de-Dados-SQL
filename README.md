@@ -7,3 +7,7 @@ Segue link do documento que contempla a atividade feita: https://docs.google.com
 
 Criando Procedure do Banco de Dados de uma Empresa.
 Segue link do documento que contempla a atividade feita:https://docs.google.com/document/d/1ZZ_lcqYYL40_FXKqJ0YrSoDZLYviXreN/edit?usp=sharing&ouid=115559627937633356535&rtpof=true&sd=true
+
+Criando Função SQL para somar.
+Segue link do documento que contempla a atividade feita:https://docs.google.com/document/d/1UkRgRBC9m3Gv2LAw3ZI2yVq1r2HpLJax/edit?usp=sharing&ouid=115559627937633356535&rtpof=true&sd=true
+
